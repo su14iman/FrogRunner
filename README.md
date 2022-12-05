@@ -24,8 +24,6 @@
 -   **Classes Diagram**:
 ![Alt text](/doc/images/Classes.uml.png?raw=true "Classes Diagram")
 
-
--   **Quellen**:
 -   **Quellen**:
 
 	-   [https://docs.unity3d.com/Manual/Unity2D.html](https://docs.unity3d.com/Manual/Unity2D.html)
