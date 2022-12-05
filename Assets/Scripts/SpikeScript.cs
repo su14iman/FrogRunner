@@ -5,6 +5,9 @@ public class SpikeScript : MonoBehaviour
 
     public SpikeGenerator spikeGenerator;
 
+    + public spikeGenerator:SpikeGenerator
+    
+    
 
     // Update is called once per frame
     void Update()
