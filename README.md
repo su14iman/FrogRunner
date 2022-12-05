@@ -9,7 +9,7 @@
 	-   C# (logic)
 	-   Unity (game engine)
 	-   Adobe Photoshop (image editing)
-	- 
+
 - **Elemente**:
 	-   ***Charakter***: Der Charakter hat Geschwindigkeit und die Fähigkeit zu springen, um Hindernisse zu überwinden, die Geschwindigkeit steigt mit zunehmender Zeit.
 	-   ***Hindernisse***: Zufällige Gegenstände entlang der Länge des Charakters, die den Charakter daran hindern, den Weg fortzusetzen.
@@ -21,6 +21,11 @@
 	-   Zufällige Hindernisse werden vor dem Charakter generiert
 	-   Der Charakter muss mithilfe der Sprungfunktion Hindernissen ausweichen
 
+-   **Classes Diagram**:
+![Alt text](/doc/images/Classes.uml.png?raw=true "Classes Diagram")
+
+
+-   **Quellen**:
 -   **Quellen**:
 
 	-   [https://docs.unity3d.com/Manual/Unity2D.html](https://docs.unity3d.com/Manual/Unity2D.html)
